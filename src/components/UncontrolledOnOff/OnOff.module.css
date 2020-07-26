@@ -1,0 +1,22 @@
+.buttonOn {
+    background-color: greenyellow;
+}
+
+.buttonOff {
+    background-color: red;
+}
+.circleGreen {
+    margin: 5px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    background-color: greenyellow;
+}
+.circleRed {
+    margin: 5px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    background-color: red;
+}
+
